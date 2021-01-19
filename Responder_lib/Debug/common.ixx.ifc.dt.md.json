@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\commoncode\\responder\\responder\\common.ixx",
+        "ProvidedModule": "common",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
